@@ -1,0 +1,72 @@
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe.config
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Properties.Resources.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.exe
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CopyComplete
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.AnaSayfa.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOdeme.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Login.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOl.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Fatura.resources
+C:\Users\Admin\source\repos\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.FaturaUyelik.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe.config
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\bin\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Anasayfa.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Fatura.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.FaturaUyelik.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOdeme.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Login.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOl.resources
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\Desktop\Magaza-NGSS\Magaza-NGSS\obj\Debug\Magaza_NGSS.SiparisOdeme.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe.config
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Anasayfa.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Fatura.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.FaturaUyelik.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.SiparisOdeme.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOdeme.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Login.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOl.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe.config
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\bin\Debug\Magaza-NGSS.pdb
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Anasayfa.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Fatura.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.FaturaUyelik.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOdeme.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Login.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza_NGSS.UyeOl.resources
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.exe
+C:\Users\Admin\Desktop\Magaza-NGSS - Kopya - Kopya\Magaza-NGSS\obj\Debug\Magaza-NGSS.pdb
